@@ -31,3 +31,102 @@ A web application featuring user login, timed quizzes, score tracking and an adm
 📫 Connect with Me
 
 GitHub: JasmineAravindh
+📊 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=JasmineAravindh&show_icons=true&theme=default)
+
+🌱 Currently Learning
+
+- Advanced React.js
+- REST API Development
+- Backend Development
+- Database Management
+
+📫 Connect With Me
+
+- n📊 GitHub Stats
+
+
+
+🌱 Currently Learning
+
+Advanced React.js
+
+REST API Development
+
+Backend Development
+
+Database Management
+
+📫 Connect With Me
+
+GitHub: https://github.com/JasmineAravindh
+
+📊 GitHub Stats
+
+
+
+🌱 Currently Learning
+
+Advanced React.js
+
+REST API Development
+
+Backend Development
+
+Database Management
+
+📫 Connect With Me
+
+GitHub: https://github.com/JasmineAravindh
+
+📊 GitHub Stats
+
+
+
+🌱 Currently Learning
+
+Advanced React.js
+
+REST API Development
+
+Backend Development
+
+Database Management
+
+📫 Connect With Me
+
+GitHub: https://github.com/JasmineAravindh
+
+📊 GitHub Stats
+
+
+
+🌱 Currently Learning
+
+Advanced React.js
+
+REST API Development
+
+Backend Development
+
+Database Management
+
+📫 Connect With Me
+
+GitHub: https://github.com/JasmineAravindh
+
+📊 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=JasmineAravindh&show_icons=true&theme=default)
+
+🌱 Currently Learning
+
+- Advanced React.js
+- REST API Development
+- Backend Development
+- Database Management
+
+📫 Connect With Me
+
+- GitHub: https://github.com/JasmineAravindh
