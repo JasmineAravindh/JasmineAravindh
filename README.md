@@ -1,4 +1,4 @@
-# Jasmine-Aravindh-
+# JasmineAravindh
 My Full stack developer profile 
 Hi, I'm Jasmine! 👋
 
